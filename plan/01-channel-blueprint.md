@@ -1,72 +1,78 @@
 # 01 — Channel Blueprint
 
-## The niche: "How money actually works" (business & economics explainers)
+## The niche: boring businesses that quietly make serious money
 
-**One-line positioning:** Short, story-driven explainers that reveal the hidden business model
-behind things people use every day — Costco chickens, airline miles, gym memberships, gift cards.
+**One-line positioning:** Short, number-driven explainers about unglamorous businesses — laundromats,
+car washes, billboards, self-storage, porta-potties, vending — and the surprisingly good money behind them.
 
-### Why this niche (and not the usual suspects)
+### Why this lane
 
-| Factor | Business/money explainers | Motivation / stoicism | Scary stories / true crime | Top-10 lists |
+| Factor | Boring-business explainers | Broad business explainers | Motivation / stoicism | Scary stories |
 |---|---|---|---|---|
-| Ad rates (CPM) | **High** ($8–$25+, finance/business advertisers) | Low–mid | Mid | Low |
-| Saturation of AI channels | Moderate | Extreme | Extreme | Extreme |
-| Evergreen (videos earn for years) | Yes | Yes | Partly | No |
-| Works with AI visuals + stock b-roll | Yes (logos, charts, product shots, cityscapes) | Yes | Needs atmosphere | Yes |
-| Affiliate / sponsor fit | Excellent (brokerages, budgeting apps, courses, credit cards) | Weak | Weak | Weak |
-| Risk under YouTube's 2025 "inauthentic content" rules | Low if scripts are original research | High | High | High |
+| Competition from established channels | **Low–moderate** (a handful of creators, mostly weekly, mostly with faces) | High (several multi-million-sub channels) | Extreme | Extreme |
+| Competition from AI/faceless clones | Low | Moderate | Extreme | Extreme |
+| Ad rates (CPM) | **High** (business, finance, SaaS and franchise advertisers) | High | Low | Mid |
+| Evergreen | Yes — a laundromat works the same way in five years | Yes | Yes | Partly |
+| Affiliate / sponsor fit | **Excellent** (business-formation services, bookkeeping, loan marketplaces, equipment, courses) | Good | Weak | Weak |
+| Works with AI visuals + stock b-roll | Yes (machines, trucks, buildings, charts) | Yes | Yes | Needs atmosphere |
+| Risk under YouTube's 2025 "inauthentic content" rules | Low — every video is specific research | Low | High | High |
+| Viewer intent | Very high: people watch because they want to *do* it | Curiosity | Passive | Passive |
+
+The last row is the real reason. Viewers who want to start a business watch longer, comment more, click links,
+and buy things. That is worth more than raw view counts.
 
 ### Audience
-- 18–40, mostly male-skewing but broad, curious about money, side hustles, and "how things work."
-- They binge. One good explainer leads to five more. That is why the channel is built as a series.
+- 20–45, side-hustle curious, tired of "dropshipping" content, want something real. Skews male but not only.
+- They binge whole series ("what does it cost to start X?").
 
 ## Content formats
 
 | Format | Length | Frequency | Job |
 |---|---|---|---|
-| **Short** (vertical) | 45–60 s | **Daily** | Subscriber growth, discovery, feed the long-form |
+| **Short** (vertical) | 45–60 s | **Daily** | Discovery, subscribers, feed the long-form |
 | **Long-form explainer** | 7–10 min | **2× per week** (Tue, Sat) | Watch hours (needed for monetization), ad revenue, sponsors |
-| Community post | text/poll | 3× per week | Keeps subscribers active, free engagement signal |
+| Community post | text/poll | 3× per week | "Which boring business next?" polls — free engagement |
 
-### The series spine (recurring franchises)
-Recurring series make the channel feel like a brand and make daily ideation easy:
-
-1. **"The Real Business"** — a famous company's hidden profit engine (McDonald's = real estate).
-2. **"Priced to Trick You"** — pricing psychology, decoded (why everything ends in .99).
-3. **"Follow the Money"** — where your money actually goes (a $5 coffee, a $100 sneaker).
-4. **"Boring Billionaires"** — unglamorous businesses that print money (porta-potties, vending, laundromats).
-5. **"Money Myths"** — common beliefs about money that are wrong.
+### The series spine (five recurring franchises)
+1. **Boring Billionaires** — who actually makes the money in an unglamorous industry, and how.
+2. **The Math** — one business's unit economics in 60 seconds: cost to start, revenue per unit, margin, payback.
+3. **The Catch** — the hidden hard part that makes most people fail at it.
+4. **Who Really Owns It** — the private-equity firms and consolidators quietly buying car washes, vets, dentists, HVAC.
+5. **Could You Start This?** — a realistic, hedged look at the starter version of a business and what it takes.
 
 ## The editorial rule that keeps you monetizable
 Every video must have **all three**:
-1. A **specific, verifiable fact** the viewer did not know (a number, a date, a document).
-2. A **"so what" for the viewer** — what it means for their wallet or how they can use it.
-3. A **point of view** — one sentence of opinion ("this is genius," "this is borderline predatory").
+1. A **specific, verifiable number** (a cost, a margin, a count, a regulation).
+2. A **"so what" for the viewer** — what it means if they wanted to do this or invest in it.
+3. A **point of view** — one sentence of opinion ("the disgust is the moat," "this one is harder than TikTok says").
 
-If a script has none of these, it is filler. Filler gets flagged as repetitive and does not get recommended.
+## Guardrails (important in this niche)
+- Never say "you should start X" or "you will make $Y." Say "people who run these report…", "industry estimates…".
+- Always include the catch. Channels that only hype are the ones that burn out and get called scams in the comments.
+- Licensing, insurance and local rules vary; say so whenever a "Could You Start This?" video airs.
 
 ## Hook formula (first 3 seconds)
-`[Surprising claim] + [Famous thing]` or `[Famous thing] + [is secretly X]`
-- "Costco loses money on every chicken it sells. On purpose."
-- "Delta makes more money from credit cards than from flying planes."
-- "Starbucks is one of the biggest banks you've never heard of."
+`[Boring thing] + [surprising money fact]`
+- "A laundromat has no employees, no inventory, and about a ninety percent survival rate."
+- "Private equity is buying every car wash in America. Here's why."
+- "This billboard pays its owner more than most apartments."
 
-Never open with "Hey guys," "In this video," or the channel name. The hook is the first line of the script.
+Never open with "Hey guys," "In this video," or the channel name.
 
 ## Retention structure for Shorts (60 s)
 | Seconds | Beat |
 |---|---|
-| 0–3 | Hook (surprising claim) |
-| 3–15 | The setup: what everybody assumes |
-| 15–40 | The reveal: how it actually works, with 2–3 concrete numbers |
-| 40–52 | The "so what" + point of view |
-| 52–60 | Loop or cliffhanger ("…and that's why they want you to *not* show up.") + "Follow for the next one" |
+| 0–3 | Hook (surprising money fact about a boring thing) |
+| 3–15 | Why nobody looks at this business |
+| 15–40 | The machine: 2–3 concrete numbers (cost, revenue, margin, payback) |
+| 40–52 | The catch + point of view |
+| 52–60 | Cliffhanger naming tomorrow's business + "Follow for the next one" |
 
 ## Retention structure for long-form (8 min)
-1. **Cold open (0:00–0:30):** the single most surprising fact, then "here's how it works."
-2. **The assumption (0:30–1:30):** what the public thinks the business is.
-3. **Chapter 1 — origin (1:30–3:00):** the moment someone discovered the real model.
-4. **Chapter 2 — the machine (3:00–5:30):** the numbers, step by step, with on-screen charts.
-5. **Chapter 3 — the catch (5:30–7:00):** who loses, the risk, the controversy.
-6. **Payoff + opinion (7:00–7:40):** what it means for the viewer.
-7. **Bridge (7:40–8:00):** tease the next video by name and point to it on screen.
+1. **Cold open (0:00–0:30):** the most surprising number.
+2. **The assumption (0:30–1:30):** why everyone ignores this business.
+3. **Origin / who figured it out (1:30–3:00).**
+4. **The machine (3:00–5:30):** full unit economics with on-screen charts.
+5. **The catch (5:30–7:00):** failure modes, who loses.
+6. **Payoff + opinion (7:00–7:40).**
+7. **Bridge (7:40–8:00):** tease the next video by name.

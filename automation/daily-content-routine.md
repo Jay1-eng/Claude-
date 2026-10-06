@@ -14,7 +14,7 @@ ready-to-record script waiting on GitHub.
    avoiding topics already used.
 4. Adds a row to `content/log.md`, commits, and pushes to `main`.
 
-It runs one day ahead: Day 8 (11 Oct) was written on 3 Oct, so packs stay about a week in front of the posting date.
+It runs ahead of the posting date: the launch week (Days 1–7, from Sun 11 Oct 2026) is written, and the routine writes Day 8 onward one day at a time, so packs stay several days in front of the calendar.
 
 ## Where to find it / how to pause
 - Listed in the Claude app under **Routines** (name: "Daily YouTube content pack"). Schedule: 04:51 UTC daily.

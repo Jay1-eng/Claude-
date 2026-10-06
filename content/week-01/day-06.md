@@ -1,50 +1,55 @@
-# Day 6 — Friday 9 Oct 2026 — Priced to Trick You
+# Day 6 — Friday 16 Oct 2026 — Boring Billionaires
 
-## SHORT (55 s)
+## SHORT (57 s)
 
 **Working title (pick one):**
-1. Why everything costs $X.99 (it's not what you think)
-2. The 1-cent trick that's been working on you since birth
-3. $39 sold more than $34. Here's why.
+1. This billboard earns more than an apartment
+2. The 1965 law that made billboards a monopoly
+3. Why you can't build a new billboard (and why that makes the old ones gold)
 
-**Hook (first frame text):** "$39 outsold $34. Seriously."
+**Hook (first frame text):** "This earns more than an apartment."
 
-### Script (≈150 words)
+### Script (≈155 words)
 | Time | Voice-over | On screen |
 |---|---|---|
-| 0:00 | A clothing company priced the same dress at thirty-four dollars, thirty-nine dollars, and forty-four dollars. The thirty-nine dollar one sold the most. | "$34 · $39 · $44" |
-| 0:07 | Not the cheapest. The one ending in nine. | "$39" highlighted |
-| 0:10 | This is from a real study by researchers at MIT and the University of Chicago, published in 2003, using actual mail-order catalogs. | Catalog pages |
-| 0:17 | Here's what's happening. Your brain reads numbers left to right and basically stops after the first digit. Nineteen ninety-nine isn't twenty dollars. It's "nineteen-something." Economists call it the left-digit effect. | "19.99 → 'nineteen'" |
-| 0:28 | There's a popular story that the ninety-nine cents started as an anti-theft trick — forcing cashiers to open the register for change. Fun story. Probably not the main reason it stuck. It stuck because it works. | Cash register |
-| 0:38 | And watch what luxury brands do: round numbers. Two thousand dollars, not nineteen ninety-nine. Because round numbers signal quality, and nines signal "deal." | "$2,000" vs "$1,999" |
-| 0:46 | So the price tag is telling you how the brand wants you to feel. Now you'll see it everywhere. Sorry. | Price tags montage |
-| 0:52 | Tomorrow: Starbucks is secretly a bank. Follow. | End card |
+| 0:00 | That ugly billboard on the highway can earn its owner more than a rental apartment. And you're not allowed to build another one. | Billboard at golden hour + hook |
+| 0:07 | Here's the machine. A billboard company leases a tiny patch of land from a farmer or a strip-mall owner — often a few thousand dollars a year. | "Land lease: a few $k/yr" |
+| 0:14 | It puts up a steel structure once. Then it rents each face to advertisers — a few hundred dollars a month on a country road, thousands in a city. A digital board rotates six or eight ads on the same structure. | "$ per face × 2 faces" |
+| 0:25 | Almost no staff, almost no upkeep. The biggest billboard company in America brings in over two billion dollars a year with margins around forty-five percent. | "$2B+ / ~45% margin" |
+| 0:33 | Now the moat. A 1965 federal law — plus local zoning — made it very hard to build new billboards along highways. So the old ones were grandfathered in. | "1965: no new boards" |
+| 0:41 | Which means every existing sign is a tiny legal monopoly. You can't compete by building next door. You can only buy. | "Can't build. Only buy." |
+| 0:47 | My take: this is the purest version of a boring business — a steel pole, a legal moat, and rent forever. | |
+| 0:53 | Tomorrow: porta-potties print money. Follow. | End card |
 
 ### Shot list
-| # | Visual | Source |
+| # | Visual | Source + search terms / AI prompt |
 |---|---|---|
-| 1 | Three price tags side by side | Canva |
-| 2 | Mail-order catalog pages, retro | AI prompt: "stack of 1990s mail-order clothing catalogs on a table, soft light, photo" |
-| 3 | Eye scanning a price, left-to-right animation | Canva: number with first digit enlarged |
-| 4 | Vintage cash register drawer opening | Pexels: "cash register" |
-| 5 | Luxury boutique storefront | Pexels: "luxury store window" |
-| 6 | Supermarket price tags montage | Pexels: "price tags supermarket" |
+| 1 | Highway billboard at golden hour (blank face) | Pexels: "billboard highway"; blur any real ad |
+| 2 | Farmland with a billboard at the edge | AI prompt: "a blank billboard standing at the edge of a cornfield beside a two-lane highway, golden hour, photo realistic" |
+| 3 | Steel structure close-up / workers installing | Pexels: "billboard installation" |
+| 4 | Digital billboard rotating (blank/abstract) | Pexels: "digital billboard night" |
+| 5 | Revenue stack: 2 faces × monthly rent vs land lease | Canva |
+| 6 | Capitol / law document (1965) | Pexels: "capitol building", "old document" |
+| 7 | "No new billboards" road sign mock | Canva |
+| 8 | Apartment building vs billboard side by side | Canva split |
 
-### Number cards
-- `$34 · $39 · $44` · `$39 sold the most` · `Left-digit effect` · `Round = quality, .99 = deal`
+### Number cards (big text, alone on screen)
+- `Land lease: a few $k/year` · `$ hundreds–thousands per face/month` · `$2B+ revenue (biggest owner)` · `~45% margins` · `1965: grandfathered`
 
 ### Upload fields
-- **Title:** Why everything costs $X.99 (a real study proved it) #Shorts
-- **Description:** $39 outsold $34 in a real experiment. The .99 trick is the left-digit effect, and it's been working on you forever. #Shorts #pricing #psychology #business #money #marketing
-- **Pinned comment:** What's the most ridiculous .99 price you've seen? ($999,999.99 houses count.)
-- **Playlist:** Priced to Trick You
+- **Title:** This billboard earns more than an apartment #Shorts
+- **Description:** A steel pole on leased land, rented to advertisers, protected by a 1965 law that stops new ones being built. The biggest owner makes $2B+ a year at ~45% margins. The purest boring business. Estimates; not financial advice. #Shorts #billboards #BoringBillionaires #business #money
+- **Hashtags:** #Shorts #billboards #realestate #BoringBillionaires #business #money
+- **Pinned comment:** What's the most random place you've seen a billboard? 👇
+- **Playlist:** Boring Billionaires
 - **Post at:** Fri 12:00 pm
 
 ### Verify before recording
-- [ ] Anderson & Simester (2003), "Effects of $9 Price Endings on Retail Sales," *Quantitative Marketing and Economics* — $34/$39/$44 dress test
-- [ ] "Left-digit effect" term — Thomas & Morwitz (2005)
-- [ ] Anti-theft origin story is folklore — script already hedges
+- [ ] Lamar Advertising revenue ≈ $2.1B (2023), adjusted EBITDA margin ≈ 45–47% — 10-K; update to latest
+- [ ] Land lease costs: typically a few hundred to several thousand $/year, or a % of ad revenue — trade sources; keep "often"
+- [ ] Face rental: rural static $250–$1,500/month; urban $1,500–$15,000+/month; digital boards rotate 6–8 advertisers — trade estimates
+- [ ] Highway Beautification Act 1965 restricts new signs along federal-aid highways; existing signs grandfathered; local zoning adds limits — cite as "a 1965 federal law plus local zoning"
+- [ ] "Earns more than an apartment" — comparative; a single two-face board in a decent spot can net more than a typical rental unit's cash flow; keep as framing, not a statistic
 
-### Why this passes the original-content bar
-Cites the actual experiment and authors, debunks the folklore, and gives the luxury counter-example.
+### Why this passes the "original content" bar
+Names the specific law that creates the moat, pairs it with filings-level margins, and lands a clear opinion about why it is the purest boring business.

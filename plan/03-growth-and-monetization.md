@@ -12,14 +12,14 @@ why the two weekly long-form videos are non-negotiable. Shorts views alone rarel
 
 ## Revenue streams, in the order you unlock them
 
-1. **Affiliate links (day 1).** Put 1–2 relevant links in every description: budgeting apps, brokerages,
-   business books (Amazon Associates), the AI tools you use (ElevenLabs, Canva, CapCut all have programs).
-   Business/money audiences convert well. Disclose "some links are affiliate links."
+1. **Affiliate links (day 1).** Put 1–2 relevant links in every description: business-formation services (LLC
+   setup), bookkeeping software, small-business loan marketplaces, equipment retailers, business books (Amazon Associates),
+   and the AI tools you use (ElevenLabs, Canva, CapCut all have programs). Side-hustle audiences convert very well. Disclose "some links are affiliate links."
 2. **Ad revenue (after YPP).** Long-form explainers in this niche commonly earn $5–$20+ RPM. A video with
    100k views can earn $500–$2,000. Shorts earn far less per view ($0.03–$0.10 RPM) — they are for growth.
 3. **Sponsorships (from ~10k subs).** Fintech, budgeting, and education brands sponsor this niche. Typical rate:
    $20–$40 per 1,000 expected views for a 60-second integration. List yourself on sponsorship marketplaces.
-4. **Digital product (month 3+).** A $9–$29 "Business Model Cheat Sheet" PDF or Notion template sells well to
+4. **Digital product (month 3+).** A $9–$29 "Boring Business Starter Math" spreadsheet (unit-economics calculators for 20 businesses) or Notion template sells well to
    this audience and needs no fulfilment. Link in every description.
 5. **Channel memberships (from 500 subs).** Early access + a monthly "ask me anything" post. Low effort.
 
@@ -28,8 +28,8 @@ why the two weekly long-form videos are non-negotiable. Shorts views alone rarel
 ### Days 1–7: Launch
 - Create the channel, apply brand kit, upload channel banner + logo, write About section.
 - Produce and schedule week 1 from `content/week-01/` (7 Shorts, 2 long-form).
-- Create playlists for each series: The Real Business, Priced to Trick You, Follow the Money, Boring Billionaires, Money Myths.
-- Post the first community poll ("Which company's secret should we expose next?").
+- Create playlists for each series: Boring Billionaires, The Math, The Catch, Who Really Owns It, Could You Start This?
+- Post the first community poll ("Which boring business should we break down next?").
 
 ### Days 8–30: Consistency + data
 - Post a Short every day, long-form Tue + Sat. Zero misses. The algorithm rewards cadence in the first month.
@@ -57,11 +57,11 @@ Fill in `content/log.md`:
 3. One thing to change next week.
 
 ## Sponsor outreach template
-> Subject: The Margin × [Brand] — explainer channel in the business/money niche
+> Subject: Quiet Profits × [Brand] — the boring-business channel
 >
-> Hi [Name], I run The Margin, a YouTube channel that explains how famous businesses actually make money.
+> Hi [Name], I run Quiet Profits, a YouTube channel that breaks down the real numbers behind unglamorous small businesses.
 > We're at [X] subscribers with [Y] views in the last 28 days, 80% aged 18–44, mostly [countries].
-> Our audience is actively interested in [budgeting / investing / starting a business], which is why I think
+> Our audience is actively interested in [starting a business / buying a business / financing equipment], which is why I think
 > [Brand] fits. I'm proposing a 60-second integration in our [date] deep dive on [topic], at $[rate].
 > Media kit attached. Happy to send recent analytics screenshots.
 

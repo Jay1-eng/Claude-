@@ -1,52 +1,57 @@
-# Day 2 — Monday 5 Oct 2026 — Priced to Trick You
+# Day 2 — Monday 12 Oct 2026 — The Math
 
-## SHORT (55 s)
+## SHORT (57 s)
 
 **Working title (pick one):**
-1. IKEA's store is a maze. On purpose.
-2. Why you can't find the exit at IKEA
-3. The $1 hot dog is IKEA's smartest product
+1. What one vending machine actually earns
+2. The real math of a vending machine (not the TikTok version)
+3. A $2,500 machine. Here's the monthly profit.
 
-**Hook (first frame text):** "IKEA is a MAZE on purpose."
+**Hook (first frame text):** "One vending machine. Real numbers."
 
-### Script (≈150 words)
+### Script (≈155 words)
 | Time | Voice-over | On screen |
 |---|---|---|
-| 0:00 | You can't find the exit at IKEA. That is not an accident. That is the business model. | Winding store path |
-| 0:05 | Most stores let you walk straight to what you need. IKEA forces one long, winding path through *every* department. | Arrow on floor |
-| 0:12 | There's a name for what that does to your brain: the Gruen effect. Walk long enough through a designed space and you stop shopping with a list… and start shopping with your feelings. | "The Gruen Effect" |
-| 0:22 | A researcher at University College London studied the layout and estimated around sixty percent of what people buy at IKEA, they never planned to buy. | "~60% unplanned" |
-| 0:30 | Then there's the food. The meatballs, the hot dog for about a dollar. IKEA sells roughly a billion meatballs a year. The food court does over two billion dollars. But its real job is to keep you in the building longer. | Meatballs, hot dog |
-| 0:42 | And the flat pack? You do the assembly, so IKEA ships twelve tables in the space of one. You're the free labor. | Flat-pack box |
-| 0:49 | Clever? Absolutely. A little manipulative? Also yes. Now you'll never walk that path the same way. | Exit sign |
-| 0:54 | Tomorrow: the airline that makes more from credit cards than flights. Follow. | End card |
+| 0:00 | Everyone online says vending machines are passive income. Here's the actual math for one machine. | Vending machine + hook |
+| 0:05 | A decent used snack or drink machine costs around two to three thousand dollars. | "~$2,500 used" |
+| 0:10 | A machine in an average spot — an office, a gym, a laundromat — takes in somewhere around three hundred dollars a month. A great spot does far more. A bad one does almost nothing. | "~$300/month" |
+| 0:19 | Now subtract. Product costs about half, so one fifty. The location usually wants a cut — ten to twenty-five percent of sales — call it forty-five. Card reader fees and a few bucks of electricity. | Subtraction stack |
+| 0:30 | You're left with roughly one hundred dollars a month, per machine, before your time. | "≈ $100/month profit" |
+| 0:34 | So the machine pays for itself in about two years. Not life-changing. But put twenty of them on one driving route and that's two grand a month for a weekly restocking loop. | "20 machines ≈ $2k/mo" |
+| 0:44 | The catch: the location is the business. Not the machine. Lose the office contract and your asset is a very heavy fridge. | Hand truck, machine moving |
+| 0:51 | My take: it's a real small business with a boring, honest return — not a passive one. | |
+| 0:54 | Tomorrow: why private equity is buying every car wash in America. Follow. | End card |
 
 ### Shot list
-| # | Visual | Source |
+| # | Visual | Source + search terms / AI prompt |
 |---|---|---|
-| 1 | Furniture showroom, long aisle, arrows on floor | Pexels: "furniture store aisle", "showroom" |
-| 2 | Overhead maze diagram | AI prompt: "top-down minimalist diagram of a winding one-way path through a large store, white lines on dark background" |
-| 3 | Brain / shopping psychology abstract | Pexels: "shopping bags walking", "mall crowd" |
-| 4 | Meatballs plate, hot dog | Pexels: "swedish meatballs", "hot dog" |
-| 5 | Flat-pack boxes stacked, person assembling furniture | Pexels: "assembling furniture", "cardboard boxes stacked" |
-| 6 | Shipping container / truck | Pexels: "cargo truck loading" |
+| 1 | Vending machine glowing in a hallway | Pexels: "vending machine hallway" |
+| 2 | Person restocking a vending machine (from behind) | Pexels: "restocking vending machine" |
+| 3 | Office break room, gym lobby, laundromat | Pexels: "office break room", "gym lobby" |
+| 4 | Animated subtraction: $300 → −$150 → −$45 → −$5 → ≈$100 | Canva counter |
+| 5 | Cardboard cases of snacks in a car trunk | Pexels: "car trunk boxes" |
+| 6 | Route map with 20 pins | Canva map |
+| 7 | Machine on a hand truck being moved | Pexels: "hand truck moving" |
+| 8 | Coins dropping into a slot, slow motion | Pexels: "coins falling slow motion" |
 
-### Number cards
-- `~60% unplanned` · `1,000,000,000 meatballs/yr` · `$2B+ food sales` · `12 tables, 1 box`
+### Number cards (big text, alone on screen)
+- `Used machine ≈ $2,500` · `≈ $300/mo sales` · `Product ≈ 50%` · `Location cut 10–25%` · `≈ $100/mo profit` · `Payback ≈ 2 years`
 
 ### Upload fields
-- **Title:** IKEA's store is a maze. On purpose. #Shorts
-- **Description:** The one-way path, the $1 hot dog, the flat-pack box — every piece of IKEA is designed to make you spend. Here's the psychology. #Shorts #IKEA #psychology #business #money
-- **Pinned comment:** Be honest — what did you buy at IKEA that you did NOT go in for?
-- **Playlist:** Priced to Trick You
+- **Title:** What one vending machine actually earns (real math) #Shorts
+- **Description:** A used machine costs ~$2,500 and takes in ~$300/month in an average spot. After product, the location's cut and fees, you keep about $100. Here's the honest math — and the catch. Industry estimates, not financial advice. #Shorts #vendingmachine #TheMath #sidehustle #business
+- **Hashtags:** #Shorts #vendingmachine #sidehustle #TheMath #business #money
+- **Pinned comment:** Anyone here actually run a route? What does your best machine do per month? 👇
+- **Playlist:** The Math
 - **Post at:** Mon 12:00 pm
 
 ### Verify before recording
-- [ ] Alan Penn (UCL) "60% unplanned purchases" claim — cite as "estimated"
-- [ ] ~1 billion meatballs/year (IKEA has stated this; confirm current figure)
-- [ ] Food revenue > $2B/year (reported ~€2B+; say "over two billion")
-- [ ] Current US hot dog price (say "about a dollar" if unsure)
-- [ ] Flat-pack origin: 1956, the Lövet table (optional fact)
+- [ ] Used machine $1,500–$3,500 — resale listings / refurbishers; say "around two to three thousand"
+- [ ] ~$300/month per machine — industry rule-of-thumb (ranges $75–$1,000+); keep "average spot" wording
+- [ ] Product cost ≈ 50% of sales — operator-reported norm (40–60%)
+- [ ] Location commission 10–25% — common contract range
+- [ ] Card reader fees ≈ 5–6% + monthly; electricity ≈ $5–$30/month depending on machine type
+- [ ] "Payback ≈ 2 years" is our own arithmetic from the figures above
 
-### Why this passes the original-content bar
-Names the actual effect (Gruen), cites a named researcher, and gives an opinion ("a little manipulative").
+### Why this passes the "original content" bar
+A full worked subtraction with hedged inputs, a conclusion that pushes back on the "passive income" claim, and the opinion that the location is the business.

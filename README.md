@@ -1,8 +1,8 @@
 # Faceless AI YouTube Channel — Operating Kit
 
 This repo is the complete operating system for a faceless, AI-assisted YouTube channel
-in the **business & money explainers** niche ("how companies and money systems actually
-make money"). Everything you need to launch, produce, and grow the channel lives here,
+in the **boring businesses that quietly make serious money** niche (laundromats, car washes,
+billboards, self-storage, porta-potties, vending). Working name: **Quiet Profits**. Everything you need to launch, produce, and grow the channel lives here,
 and a daily routine drops a new, ready-to-record content pack into `content/` every morning.
 
 ## Start here (in order)
@@ -14,7 +14,7 @@ and a daily routine drops a new, ready-to-record content pack into `content/` ev
 | 3 | `plan/02-production-pipeline.md` | Exact tool stack (free + paid), step-by-step 60-minute daily workflow |
 | 4 | `plan/03-growth-and-monetization.md` | 90-day roadmap, YouTube Partner Program thresholds, every revenue stream |
 | 5 | `calendar/30-day-calendar.md` | 30 days of planned videos (titles, format, hook angle) |
-| 6 | `content/week-01/` | **7 fully written daily packs** — scripts, shot lists, titles, thumbnails, descriptions |
+| 6 | `content/week-01/` | **7 fully written daily packs** (launch week, Day 1 = Sun 11 Oct 2026) — scripts, shot lists, titles, thumbnails, descriptions |
 | 7 | `automation/daily-content-routine.md` | How the daily content pack routine works and how to pause it |
 
 ## Daily loop (once set up)
@@ -23,6 +23,12 @@ and a daily routine drops a new, ready-to-record content pack into `content/` ev
 2. Follow `plan/02-production-pipeline.md` to produce the video (about 45–60 min for a Short, 2–3 h for a long-form).
 3. Upload using the title, description, tags, and thumbnail text from the pack.
 4. Tick it off in `content/log.md`.
+
+## Why this niche
+Broad business explainers are dominated by big, polished channels. Boring-business content has the same
+high ad rates and better affiliate fit, but only a handful of consistent creators — and viewers who watch
+because they want to *do* it. See `plan/01-channel-blueprint.md`. Earlier general-explainer packs are kept
+in `content/archive-general-explainers/` as optional bonus posts.
 
 ## Honest expectations
 

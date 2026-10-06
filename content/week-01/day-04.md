@@ -1,53 +1,56 @@
-# Day 4 — Wednesday 7 Oct 2026 — The Real Business
+# Day 4 — Wednesday 14 Oct 2026 — The Catch
 
-## SHORT (55 s)
+## SHORT (56 s)
 
 **Working title (pick one):**
-1. McDonald's is a real estate company that sells burgers
-2. McDonald's doesn't make money on burgers
-3. The man who turned McDonald's into a landlord
+1. Self-storage looks easy. Here's the part that isn't.
+2. The self-storage number the gurus skip
+3. Why self-storage makes billions — and still loses people money
 
-**Hook (first frame text):** "McDonald's is NOT a burger company."
+**Hook (first frame text):** "Self-storage: the part they skip."
 
-### Script (≈150 words)
+### Script (≈155 words)
 | Time | Voice-over | On screen |
 |---|---|---|
-| 0:00 | McDonald's is not a burger company. It's one of the biggest landlords on Earth. | Golden arches sign at dusk |
-| 0:05 | In the 1950s, Ray Kroc was franchising restaurants and barely making money. Then his finance guy, Harry Sonneborn, had an idea. | 1950s diner b-roll |
-| 0:13 | Don't sell the burgers. Own the dirt underneath them. | "Own the dirt." |
-| 0:17 | McDonald's buys or leases the land, builds the restaurant, and rents it to the franchisee. Franchisees pay rent *plus* a cut of sales — often well over ten percent of everything they ring up. | Rent flow diagram |
-| 0:28 | Sonneborn put it bluntly: "We are not technically in the food business. We are in the real estate business." | Quote card |
-| 0:35 | Today, McDonald's collects close to ten billion dollars a year in rent. Its land and buildings are worth tens of billions. And the margin on rent is around eighty percent. The margin on a burger? Nowhere close. | "$9.8B in rent" / "~80% margin" |
-| 0:47 | So every franchisee works ninety-hour weeks to flip burgers… and McDonald's gets paid whether that restaurant thrives or barely survives. Genius. Slightly ruthless. Both. | Busy kitchen |
-| 0:53 | Tomorrow: your gym is betting you never show up. Follow. | End card |
+| 0:00 | Self-storage is the business every guru loves. Here's the number they skip. | Storage doors + hook |
+| 0:04 | First, why they love it. There are more self-storage facilities in America than McDonald's, Starbucks and Subway combined — around fifty thousand. | "~50,000 facilities" |
+| 0:12 | The biggest owner pulls in over four billion dollars a year renting out… empty rooms. At a stabilised site, occupancy runs around ninety percent and operating margins can top seventy. No tenants to feed, no toilets to fix. | "$4B+ / ~90% / 70%+ margin" |
+| 0:24 | Now the catch. A new facility opens empty. It takes two to four years to fill up — and the whole time, you're paying the mortgage on a multi-million-dollar building. | "2–4 years to fill" |
+| 0:33 | Worse: everyone had the same idea. So many were built in the last few years that in a lot of cities, rents have been *falling* since 2023. | "Rents ↓ since 2023" |
+| 0:40 | So the giants with cheap money and paid-off buildings are fine. The guy who borrowed eight million in 2022 to build his first one? That's who's hurting. | "Who's hurting" |
+| 0:48 | My take: it's a brilliant business to own and a brutal one to *start*. Those are not the same thing. | |
+| 0:53 | Tomorrow: pressure washing — a two-thousand-dollar business? Follow. | End card |
 
 ### Shot list
-| # | Visual | Source |
+| # | Visual | Source + search terms / AI prompt |
 |---|---|---|
-| 1 | Fast-food sign at dusk (generic arches silhouette) | Pexels: "fast food sign night" |
-| 2 | 1950s diner / drive-in | AI prompt: "1950s American drive-in restaurant, film photograph, red and white, vintage cars" |
-| 3 | Empty lot → building rising (time-lapse feel) | Pexels: "construction time lapse" |
-| 4 | Rent flow diagram: Franchisee → Rent + % sales → McDonald's | Canva |
-| 5 | Quote card with Sonneborn line | Canva |
-| 6 | Burger being assembled fast | Pexels: "burger kitchen fast food" |
-| 7 | City skyline / property map | Pexels: "aerial suburb", "city map" |
+| 1 | Rows of orange/green roll-up storage doors | Pexels: "self storage units" |
+| 2 | Fast-food logos count (use generic icons) vs storage count | Canva comparison |
+| 3 | Empty storage unit interior | Pexels: "empty storage unit" |
+| 4 | Occupancy gauge animation 0% → 90% | Canva |
+| 5 | Construction site of a large metal building | Pexels: "metal building construction" |
+| 6 | Calendar flipping 2–4 years | Canva |
+| 7 | Rent price line chart falling | Canva |
+| 8 | Lone figure looking at a big empty building at dusk | AI prompt: "person standing in front of a brand-new empty self storage facility at dusk, wide shot, moody, no logos" |
 
-### Number cards
-- `Own the dirt.` · `$9.8B rent / year` · `~80% margin on rent` · `Paid either way`
+### Number cards (big text, alone on screen)
+- `~50,000 facilities` · `More than McDonald's + Starbucks + Subway` · `$4B+ (biggest owner)` · `~90% occupancy` · `70%+ margins` · `2–4 years to fill`
 
 ### Upload fields
-- **Title:** McDonald's is a real estate company that sells burgers #Shorts
-- **Description:** McDonald's makes close to $10B a year in rent from its own franchisees. The burgers are the bait; the land is the business. #Shorts #McDonalds #realestate #business #money #franchise
-- **Pinned comment:** Should we do the full McDonald's deep dive next week? Vote 👇
-- **Playlist:** The Real Business
+- **Title:** Self-storage looks easy. Here's the part that isn't. #Shorts
+- **Description:** ~50,000 facilities, 70%+ margins, and the biggest owner makes $4B+ a year renting empty rooms. But a new build takes 2–4 years to fill — and rents have been falling since 2023. The catch the gurus skip. Estimates; not financial advice. #Shorts #selfstorage #TheCatch #business #realestate
+- **Hashtags:** #Shorts #selfstorage #realestate #TheCatch #business #money
+- **Pinned comment:** Would you rather BUY a full storage facility or BUILD a new one? Why? 👇
+- **Playlist:** The Catch
 - **Post at:** Wed 12:00 pm
 
 ### Verify before recording
-- [ ] Rent revenue from franchisees ≈ $9.8B (FY2023 10-K; update to latest year)
-- [ ] Franchised-restaurant margin ≈ 80%+ vs company-operated mid-teens (10-K)
-- [ ] Sonneborn quote (widely cited; attribute as "reportedly said")
-- [ ] Franchise Realty Corp formed 1956
-- [ ] "Well over ten percent" — rent is typically a percentage of sales plus service fee; keep wording approximate
+- [ ] ~50,000+ US self-storage facilities; "more than McDonald's + Starbucks + Subway combined" — Self Storage Association / SpareFoot stat (US counts: McDonald's ~13.5k, Starbucks ~16k, Subway ~20k ≈ 50k) — confirm current counts
+- [ ] Public Storage revenue ≈ $4.5B (2023 10-K); update to latest
+- [ ] Stabilised occupancy ~90%; NOI margins 65–75% for large REITs — REIT filings; say "can top seventy"
+- [ ] Lease-up 2–4 years — industry norm (varies by market)
+- [ ] Street rents declining since 2023 in many markets — REIT earnings commentary / Yardi Matrix reports
+- [ ] "$8M build" is illustrative; typical new build $5–$15M depending on size and land
 
-### Why this passes the original-content bar
-A named person (Sonneborn), a filings-backed number (rent revenue, margin), and a clear opinion ("genius, slightly ruthless").
+### Why this passes the "original content" bar
+Puts the famous "more than McDonald's" stat next to the lease-up and oversupply numbers the hype videos omit, with a clear "own vs start" opinion.

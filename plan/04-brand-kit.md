@@ -1,53 +1,57 @@
 # 04 — Brand Kit
 
-## Channel name (pick one; check availability on YouTube, TikTok, Instagram, and as a .com)
+## Channel name (check availability on YouTube, TikTok, Instagram, and as a .com before committing)
 
 | Name | Why it works | Handle idea |
 |---|---|---|
-| **The Margin** *(recommended)* | Short, memorable, double meaning (profit margin / what's in the margins) | @themarginshow |
-| Follow The Money | Instantly says what the channel does | @followthemoneytv |
-| Profit Anatomy | "Dissecting" businesses; strong visual identity (diagrams) | @profitanatomy |
-| Hidden Ledger | Mystery vibe, fits "secret business model" hook style | @hiddenledger |
-| Quiet Profits | Fits the "boring billionaires" series | @quietprofits |
+| **Quiet Profits** *(recommended)* | Says the whole thesis: unglamorous, quietly lucrative. Easy to say, easy to remember | @quietprofits |
+| Boring Billionaires | Strongest hook word in the niche; also our flagship series name | @boringbillionaires |
+| Dull Money | Short, cheeky, memorable | @dullmoney |
+| The Unsexy Business | Clear positioning, slightly funny | @unsexybusiness |
+
+Avoid "Boring Money" (an existing UK finance company) and anything with "Codie" or "Contrarian" (existing creators).
 
 ## Channel description (paste into YouTube "About")
-> Every business has a secret engine. We find it.
-> The Margin breaks down how famous companies, products, and money systems actually make money —
-> in plain English, with the real numbers. New Short every day, deep dives every Tuesday and Saturday.
-> For business inquiries: [your email]
+> Boring businesses. Serious money.
+> Quiet Profits breaks down the unglamorous businesses that quietly make millions — laundromats, car washes,
+> billboards, self-storage, porta-potties — with the real numbers: what they cost, what they earn, and the catch
+> nobody mentions. New Short every day, deep dives every Tuesday and Saturday.
+> Not financial advice. For business inquiries: [your email]
 
 ## Tagline
-**"Every business has a secret engine."**
+**"Boring businesses. Serious money."**
 
 ## Visual identity
-- **Palette:** near-black background `#0B0F14`, off-white text `#F2F2F0`, one accent: money green `#2ECC71`
-  for "profit" and signal red `#E74C3C` for "loss." Use the accent sparingly — only on the key number.
-- **Typography:** one bold sans (Inter Black / Montserrat ExtraBold) for on-screen numbers and titles.
-  Captions in the same family, medium weight, white with a thin black outline.
-- **Look:** cinematic AI b-roll + clean stock product footage + simple animated bar/line charts.
+- **Palette:** warm near-black `#101210`, off-white `#F4F1EA`, one accent: cash green `#3DDC84` for money numbers,
+  rust orange `#E0762A` for "the catch." Only on the key number.
+- **Typography:** one bold sans (Inter Black / Montserrat ExtraBold) for numbers and titles. Captions same family,
+  medium weight, white with thin black outline.
+- **Look:** real-world, slightly gritty: trucks, machines, strip malls, highways at golden hour. AI b-roll for
+  the "money" metaphors (coin stacks, glowing numbers). Simple animated bar charts for the math.
   Every key number appears **big, on screen, alone** for at least 1.5 s.
-- **Logo:** a white "M" with a green bar rising out of it. Make it in Canva in 10 minutes. Keep it flat.
+- **Logo:** a plain dollar sign made of a brick/concrete texture, or "QP" in the brand font over a green block.
+  Make it in Canva in 10 minutes. Keep it flat.
 
 ## Voice (AI narration)
-- Male or female, mid-30s, calm, slightly amused, **conversational, not newsreader**.
-- Speed: 1.05–1.1× natural. Shorts can go slightly faster.
-- ElevenLabs picks that fit: "Adam," "Daniel," "Charlotte," or "Matilda." Test with the first script.
-- Always run a human pass: fix pronunciations (Costco "KOST-ko", Sonneborn "SON-eh-born"), add pauses with "…".
+- Mid-30s, calm, dry, slightly amused. Think "the friend who actually owns a laundromat."
+- Speed 1.05–1.1×. Shorts slightly faster.
+- ElevenLabs picks to test: "Daniel," "Adam," "Charlotte," "Matilda." Pick one and never change it.
+- Human pass on every script: fix pronunciations, add pauses with "…", make numbers sound natural
+  ("about three grand," not "three thousand dollars" every time).
 
-## Thumbnail rules (long-form only; Shorts use the first frame)
-1. **Max 4 words** of text, in the brand font, 2 lines max.
-2. One big recognizable object/logo (the chicken, the plane, the gym) on the left, text on the right.
-3. One accent colour on the key word only.
-4. Face optional: an AI-generated "shocked person" is allowed but is not the brand. Prefer object + number.
-5. Test 2 thumbnails using YouTube's built-in "Test & compare."
+## Thumbnail rules (long-form only)
+1. **Max 4 words** of text, 2 lines, brand font.
+2. One big, boring object (a washing machine, a dumpster, a billboard) on the left, big green number on the right.
+3. Accent colour on the number only.
+4. Prefer object + number over faces. If a face, an AI-generated "surprised guy" is allowed but is not the brand.
+5. Test 2 thumbnails with YouTube's "Test & compare."
 
-Thumbnail text examples: `LOSES MONEY ON PURPOSE` · `NOT AN AIRLINE` · `THE $5 TRAP`
+Thumbnail text examples: `$2M FROM DIRT` · `NO EMPLOYEES` · `WHO OWNS THIS?`
 
 ## Shorts first-frame rule
-The first frame must contain the hook text in large type, e.g. **"Costco LOSES money on this."**
-That frame is also the Shorts thumbnail in the feed.
+First frame = hook text in large type over the first clip, e.g. **"This billboard out-earns an apartment."**
 
 ## Tone guardrails
-- Confident, specific, a little cheeky. Never mocking the viewer.
-- No financial advice. Say "this is how it works," never "you should buy X."
-- Say "reportedly" or "according to [source]" for any number not from a company filing.
+- Confident, specific, dry humour. Never mock the trades or the people doing them — they're the heroes.
+- No financial advice; no income promises; always include the catch.
+- Say "reportedly," "industry estimates," or "according to [source]" for any number not from a filing.
