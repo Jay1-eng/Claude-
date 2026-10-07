@@ -1,6 +1,34 @@
 # 03 — Growth & Monetization
 
-## Monetization thresholds (YouTube Partner Program)
+> **Read this first: the channel is based in Cameroon.** As of this writing, Cameroon is **not** on YouTube's
+> Partner Program country list, so the channel cannot earn ad revenue directly, regardless of subscribers or
+> watch hours. Check the current list at https://support.google.com/youtube/answer/13429240 — YouTube adds
+> countries over time. Until that changes, the income plan is the one in **"Earning from Cameroon"** below.
+> Do **not** set a false country or AdSense address to get around this; channels get terminated for it.
+
+## Earning from Cameroon (no Partner Program)
+
+In order of how soon they pay:
+
+1. **Affiliate links (day 1).** Business-formation services, bookkeeping software, equipment retailers,
+   business books, and the AI tools used to make the videos. Choose programs that pay out via **Payoneer** or
+   **Wise** (most large networks like Impact, PartnerStack and ShareASale do). Amazon Associates is awkward
+   from Cameroon (payment methods are limited) — prioritise the others.
+2. **Sponsorships (from ~5–10k subs).** Paid by bank transfer, Wise or Payoneer. This niche's advertisers
+   (business tools, loan marketplaces, franchise brands) do not care where the creator lives; they care about
+   the audience, which will be mostly US/UK/Canada.
+3. **Digital product.** A "Boring Business Starter Math" spreadsheet or Notion pack at $9–$29. Sell through a
+   platform that pays out to Cameroon — **Selar** (supports MTN/Orange Mobile Money) or Gumroad via Payoneer.
+   Link in every description and pinned comment.
+4. **A multi-channel network (MCN).** Some legitimate networks accept creators from unsupported countries and
+   monetize the channel through their own YouTube content-manager account, taking a cut (typically 20–30%).
+   Only consider this once the channel has traction, read the contract, and never pay to join one.
+5. **Repurpose to platforms that do pay in Cameroon.** Post every Short to TikTok and Facebook Reels as well;
+   their creator programs and bonus availability change often — check current eligibility.
+6. **Watch the list.** If Cameroon is added to the Partner Program later, the channel will already meet the
+   thresholds below and can apply the same day.
+
+## Monetization thresholds (YouTube Partner Program — for when/if Cameroon is added)
 
 | Tier | Requirement | Unlocks |
 |---|---|---|
