@@ -16,9 +16,15 @@
 | 12 | 22 Oct 2026 | [ ] | – | | | |
 | 13 | 23 Oct 2026 | [ ] | – | | | |
 | 14 | 24 Oct 2026 | [ ] | [ ] | | | |
+| 15 | 25 Oct 2026 | [ ] | – | | | |
 
 ## Weekly review
 ### Week 1
+- Best hook:
+- Worst swipe-away:
+- Change for next week:
+
+### Week 2
 - Best hook:
 - Worst swipe-away:
 - Change for next week:
