@@ -1,4 +1,4 @@
-# 30-Day Content Calendar — Quiet Profits
+# Content Calendar — Quiet Profits (rolling)
 
 Day 1 = Sunday 11 Oct 2026. **S** = Short (daily). **L** = long-form (Tue + Sat).
 Week 1 packs are fully written in `content/week-01/`. From Day 8 onward, the daily routine writes each day's
@@ -36,6 +36,13 @@ pack ahead of time, following this calendar (it may swap a topic if a better one
 | 28 | Sat 7 Nov | S + L | Boring Billionaires | Cemeteries: selling land you never give up / **L:** The Strange Economics of Cemeteries | Plot prices, perpetual care funds |
 | 29 | Sun 8 Nov | S | The Math | Coin-op car vacuums: $2 per 4 minutes | Revenue per bay |
 | 30 | Mon 9 Nov | S | Boring Billionaires | Pest control: the subscription nobody cancels | Rollins ≈ $3B revenue, recurring contracts |
+| 31 | Tue 10 Nov | S + L | Who Really Owns It | The oil company doesn't own the gas station / **L:** The Gas Station Business: Fuel Is the Bait, the Store Is the Profit | ~10–15¢/gal fuel margin vs 30%+ inside; who owns the site |
+| 32 | Wed 11 Nov | S | The Math | Scrap metal: $3 a pound for old copper | Price per pound by metal, yard margins |
+| 33 | Thu 12 Nov | S | Could You Start This? | Junk removal: $400 a truckload | Truck + labour, landfill fees, franchise vs solo |
+| 34 | Fri 13 Nov | S | The Catch | Franchises: the royalty nobody calculates | 4–8% royalty + ad fund on gross, not profit |
+| 35 | Sat 14 Nov | S + L | Boring Billionaires | Renting dirty shirts: the uniform rental giant / **L:** How Renting Uniforms and Floor Mats Built a $9B Business | Route density, 95%+ recurring, 20%+ margins |
+| 36 | Sun 15 Nov | S | The Math | Propane tank exchange: $25 for $8 of gas | Cage economics, refill vs exchange |
+| 37 | Mon 16 Nov | S | Could You Start This? | Gutter cleaning: $150 an hour with a ladder | Fall season, $100–$250 per house, ladder risk |
 
 ## Posting times (adjust after 30 days of analytics)
 - Shorts: **12:00 pm** local time (lunch scroll) — Sunday Shorts at 10:00 am.
