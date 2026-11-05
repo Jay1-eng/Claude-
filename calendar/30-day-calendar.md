@@ -43,6 +43,13 @@ pack ahead of time, following this calendar (it may swap a topic if a better one
 | 35 | Sat 14 Nov | S + L | Boring Billionaires | Renting dirty shirts: the uniform rental giant / **L:** How Renting Uniforms and Floor Mats Built a $9B Business | Route density, 95%+ recurring, 20%+ margins |
 | 36 | Sun 15 Nov | S | The Math | Propane tank exchange: $25 for $8 of gas | Cage economics, refill vs exchange |
 | 37 | Mon 16 Nov | S | Could You Start This? | Gutter cleaning: $150 an hour with a ladder | Fall season, $100–$250 per house, ladder risk |
+| 38 | Tue 17 Nov | S + L | Boring Billionaires | Trash is a $20B business — and the landfill is the moat / **L:** How Garbage Became One of Wall Street's Favourite Businesses | Landfill permits ≈ monopoly, ~$20B revenue at the biggest hauler |
+| 39 | Wed 18 Nov | S | The Math | Snow plowing: $50 a driveway, $0 if it doesn't snow | Plow cost, per-push vs seasonal contracts |
+| 40 | Thu 19 Nov | S | Who Really Owns It | Who owns the school bus? Not the school | Contractor fleets, per-route pricing, driver shortage |
+| 41 | Fri 20 Nov | S | The Catch | Lawn mowing: the $40 cut that never scales | Route density, price ceiling, equipment burn |
+| 42 | Sat 21 Nov | S + L | Could You Start This? | Firewood: $300 a cord from a $0 log / **L:** The Firewood Business: Cords, Kilns and Why It Never Gets Big | Log cost, splitting time, kiln-dried premium |
+| 43 | Sun 22 Nov | S | The Math | Shipping containers: a $3k steel box that rents for $150/month | Container cost, rental yield, resale |
+| 44 | Mon 23 Nov | S | Boring Billionaires | Road salt: the business that only works when it snows | Salt mines, municipal contracts, weather risk |
 
 ## Posting times (adjust after 30 days of analytics)
 - Shorts: **12:00 pm** local time (lunch scroll) — Sunday Shorts at 10:00 am.
