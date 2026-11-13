@@ -42,6 +42,8 @@
 | 38 | 17 Nov 2026 | [ ] | [ ] | | | |
 | 39 | 18 Nov 2026 | [ ] | – | | | |
 | 40 | 19 Nov 2026 | [ ] | – | | | |
+| 41 | 20 Nov 2026 | [ ] | – | | | |
+| 42 | 21 Nov 2026 | [ ] | [ ] | | | |
 
 ## Weekly review
 ### Week 1
@@ -65,6 +67,11 @@
 - Change for next week:
 
 ### Week 5
+- Best hook:
+- Worst swipe-away:
+- Change for next week:
+
+### Week 6
 - Best hook:
 - Worst swipe-away:
 - Change for next week:
