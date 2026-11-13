@@ -50,6 +50,13 @@ pack ahead of time, following this calendar (it may swap a topic if a better one
 | 42 | Sat 21 Nov | S + L | Could You Start This? | Firewood: $300 a cord from a $0 log / **L:** The Firewood Business: Cords, Kilns and Why It Never Gets Big | Log cost, splitting time, kiln-dried premium |
 | 43 | Sun 22 Nov | S | The Math | Shipping containers: a $3k steel box that rents for $150/month | Container cost, rental yield, resale |
 | 44 | Mon 23 Nov | S | Boring Billionaires | Road salt: the business that only works when it snows | Salt mines, municipal contracts, weather risk |
+| 45 | Tue 24 Nov | S + L | Who Really Owns It | Who owns the toll road? Sometimes a foreign fund, for 99 years / **L:** Selling a Highway: The Strange Business of Private Toll Roads | 99-year Chicago Skyway lease, 75-year Indiana Toll Road, toll escalators |
+| 46 | Wed 25 Nov | S | The Math | Photo booths: $6 a strip, 25¢ of paper | Booth cost, strips per week, venue split |
+| 47 | Thu 26 Nov | S | Could You Start This? | Christmas tree lots: a $30 tree sells for $90 | Wholesale vs retail, 4-week window, lot lease |
+| 48 | Fri 27 Nov | S | The Catch | Rental property: the "1% rule" that lies | Vacancy, repairs, capex, management eat the gross |
+| 49 | Sat 28 Nov | S + L | Boring Billionaires | Elevators: sold cheap, serviced forever / **L:** The Elevator Business: Why the Money Is in the Maintenance Contract | Service ≈ most of profit, decades-long contracts, few players |
+| 50 | Sun 29 Nov | S | The Math | Dog boarding: $50 a night per dog | Kennel build cost, occupancy, staffing |
+| 51 | Mon 30 Nov | S | Who Really Owns It | Who owns your tap water? Sometimes a public company | Private water utilities, regulated returns, rate cases |
 
 ## Posting times (adjust after 30 days of analytics)
 - Shorts: **12:00 pm** local time (lunch scroll) — Sunday Shorts at 10:00 am.
